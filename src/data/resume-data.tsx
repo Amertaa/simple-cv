@@ -22,7 +22,7 @@ import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Marsa Naufal",
   initials: "MN",
-  location: "Kalimantan Timur, Indonesia, Samarinda",
+  location: "Indonesia, Kalimantan Timur, Samarinda",
   locationLink: "https://www.google.com/maps/place/Samarinda",
   about: "Software Engineer",
   personalWebsiteUrl: "http://google.com/404",
@@ -70,7 +70,7 @@ export const RESUME_DATA = {
       start: "Jun 2023",
       end: "Des 2023",
       description:
-        "Membangun dan memperbaiki sebuah website profesional di bagian sistem suatu website untuk perusahaan-perusahaan yang membutuhkan, guna meningkatkan produktivitas dalam proses pekerjaan mereka. Yang melibatkan beberapa Framework seperti Laravel, Tailwind, Boostrap, hingga database seperti MySQL.",
+        "Membangun dan memperbaiki sebuah website profesional di bagian sistem suatu website untuk perusahaan-perusahaan yang membutuhkan, guna meningkatkan produktivitas dalam proses pekerjaan mereka. Yang melibatkan beberapa Framework seperti Laravel, Tailwind, Bootstrap, hingga database seperti MySQL.",
     },
     {
       company: "PT. Barqun Digital Teknologi",
