@@ -49,7 +49,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Institut Teknologi Kalimantan",
-      degree: "Teknik Elektro",
+      degree: "S1-Teknik Elektro",
       start: "2023",
       end: "Sekarang",
     },
@@ -61,6 +61,16 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+    {
+      company: "Robotik Institut Teknologi Kalimantan",
+      link: "https://github.com/ROBOTIKITK",
+      badges: ["Hybrid"],
+      title: "Staff Programming",
+      // logo: ParabolLogo,
+      start: "Jan 2023",
+      end: "Sekarang",
+      description: "",
+    },
     {
       company: "CV. GreenNusa Computindo",
       link: "https://green-nusa.net/",
